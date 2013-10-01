@@ -122,7 +122,7 @@ public class CarrinhoTest {
             total = total + x.doubleValue();
         }
         
-        assertArrayEquals(new Object[]{total}, new Object[]{289.00});
+        assertArrayEquals(new Object[]{total}, new Object[]{779.00});
         
     }
     
