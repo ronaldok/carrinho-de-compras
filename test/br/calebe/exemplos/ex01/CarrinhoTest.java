@@ -16,6 +16,7 @@ import org.powermock.modules.junit4.PowerMockRunner;
 
 
 
+
 @RunWith(PowerMockRunner.class)
 @PrepareForTest({ClasseExemplo.class})
 public class CarrinhoTest {
